@@ -1,0 +1,371 @@
+[
+  {
+    "id": "P026",
+    "name": "Sequência estruturada 26",
+    "target": "A",
+    "window": 4,
+    "strength": 75.0,
+    "condition": "Últimas 4 entradas seguem R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P027",
+    "name": "Sequência estruturada 27",
+    "target": "R",
+    "window": 5,
+    "strength": 76.0,
+    "condition": "Últimas 5 entradas seguem A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P028",
+    "name": "Sequência estruturada 28",
+    "target": "R",
+    "window": 6,
+    "strength": 77.0,
+    "condition": "Últimas 6 entradas seguem R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P029",
+    "name": "Sequência estruturada 29",
+    "target": "R",
+    "window": 7,
+    "strength": 78.0,
+    "condition": "Últimas 7 entradas seguem A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P030",
+    "name": "Sequência estruturada 30",
+    "target": "A",
+    "window": 8,
+    "strength": 79.0,
+    "condition": "Últimas 8 entradas seguem R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P031",
+    "name": "Sequência estruturada 31",
+    "target": "A",
+    "window": 9,
+    "strength": 80.0,
+    "condition": "Últimas 9 entradas seguem A,R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P057",
+    "name": "Sequência estruturada 57",
+    "target": "R",
+    "window": 3,
+    "strength": 75.0,
+    "condition": "Últimas 3 entradas seguem A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P058",
+    "name": "Sequência estruturada 58",
+    "target": "R",
+    "window": 4,
+    "strength": 76.0,
+    "condition": "Últimas 4 entradas seguem R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P059",
+    "name": "Sequência estruturada 59",
+    "target": "R",
+    "window": 5,
+    "strength": 77.0,
+    "condition": "Últimas 5 entradas seguem A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P060",
+    "name": "Sequência estruturada 60",
+    "target": "A",
+    "window": 6,
+    "strength": 78.0,
+    "condition": "Últimas 6 entradas seguem R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P061",
+    "name": "Sequência estruturada 61",
+    "target": "A",
+    "window": 7,
+    "strength": 79.0,
+    "condition": "Últimas 7 entradas seguem A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P062",
+    "name": "Sequência estruturada 62",
+    "target": "A",
+    "window": 8,
+    "strength": 80.0,
+    "condition": "Últimas 8 entradas seguem R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P088",
+    "name": "Sequência estruturada 88",
+    "target": "R",
+    "window": 10,
+    "strength": 75.0,
+    "condition": "Últimas 10 entradas seguem R,A,R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P089",
+    "name": "Sequência estruturada 89",
+    "target": "R",
+    "window": 3,
+    "strength": 76.0,
+    "condition": "Últimas 3 entradas seguem A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P090",
+    "name": "Sequência estruturada 90",
+    "target": "A",
+    "window": 4,
+    "strength": 77.0,
+    "condition": "Últimas 4 entradas seguem R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P091",
+    "name": "Sequência estruturada 91",
+    "target": "A",
+    "window": 5,
+    "strength": 78.0,
+    "condition": "Últimas 5 entradas seguem A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P092",
+    "name": "Sequência estruturada 92",
+    "target": "A",
+    "window": 6,
+    "strength": 79.0,
+    "condition": "Últimas 6 entradas seguem R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P093",
+    "name": "Sequência estruturada 93",
+    "target": "R",
+    "window": 7,
+    "strength": 80.0,
+    "condition": "Últimas 7 entradas seguem A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P119",
+    "name": "Sequência estruturada 119",
+    "target": "R",
+    "window": 9,
+    "strength": 75.0,
+    "condition": "Últimas 9 entradas seguem A,R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P120",
+    "name": "Sequência estruturada 120",
+    "target": "A",
+    "window": 10,
+    "strength": 76.0,
+    "condition": "Últimas 10 entradas seguem R,A,R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P121",
+    "name": "Sequência estruturada 121",
+    "target": "A",
+    "window": 3,
+    "strength": 77.0,
+    "condition": "Últimas 3 entradas seguem A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P122",
+    "name": "Sequência estruturada 122",
+    "target": "A",
+    "window": 4,
+    "strength": 78.0,
+    "condition": "Últimas 4 entradas seguem R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P123",
+    "name": "Sequência estruturada 123",
+    "target": "R",
+    "window": 5,
+    "strength": 79.0,
+    "condition": "Últimas 5 entradas seguem A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P124",
+    "name": "Sequência estruturada 124",
+    "target": "R",
+    "window": 6,
+    "strength": 80.0,
+    "condition": "Últimas 6 entradas seguem R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P150",
+    "name": "Sequência estruturada 150",
+    "target": "A",
+    "window": 8,
+    "strength": 75.0,
+    "condition": "Últimas 8 entradas seguem R,A,R,A,R,A,R,A.",
+    "family": "Sequências"
+  },
+  {
+    "id": "P181",
+    "name": "Alternância 31",
+    "target": "R",
+    "window": 7,
+    "strength": 75.0,
+    "condition": "Nas últimas 7 rodadas, contar alternâncias consecutivas >= 5.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P182",
+    "name": "Alternância 32",
+    "target": "R",
+    "window": 8,
+    "strength": 76.0,
+    "condition": "Nas últimas 8 rodadas, contar alternâncias consecutivas >= 6.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P183",
+    "name": "Alternância 33",
+    "target": "R",
+    "window": 9,
+    "strength": 77.0,
+    "condition": "Nas últimas 9 rodadas, contar alternâncias consecutivas >= 7.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P184",
+    "name": "Alternância 34",
+    "target": "R",
+    "window": 10,
+    "strength": 78.0,
+    "condition": "Nas últimas 10 rodadas, contar alternâncias consecutivas >= 8.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P185",
+    "name": "Alternância 35",
+    "target": "R",
+    "window": 11,
+    "strength": 79.0,
+    "condition": "Nas últimas 11 rodadas, contar alternâncias consecutivas >= 9.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P186",
+    "name": "Alternância 36",
+    "target": "R",
+    "window": 12,
+    "strength": 80.0,
+    "condition": "Nas últimas 12 rodadas, contar alternâncias consecutivas >= 10.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P217",
+    "name": "Alternância 67",
+    "target": "R",
+    "window": 7,
+    "strength": 75.0,
+    "condition": "Nas últimas 7 rodadas, contar alternâncias consecutivas >= 5.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P218",
+    "name": "Alternância 68",
+    "target": "R",
+    "window": 8,
+    "strength": 76.0,
+    "condition": "Nas últimas 8 rodadas, contar alternâncias consecutivas >= 6.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P219",
+    "name": "Alternância 69",
+    "target": "R",
+    "window": 9,
+    "strength": 77.0,
+    "condition": "Nas últimas 9 rodadas, contar alternâncias consecutivas >= 7.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P220",
+    "name": "Alternância 70",
+    "target": "R",
+    "window": 10,
+    "strength": 78.0,
+    "condition": "Nas últimas 10 rodadas, contar alternâncias consecutivas >= 8.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P221",
+    "name": "Alternância 71",
+    "target": "R",
+    "window": 11,
+    "strength": 79.0,
+    "condition": "Nas últimas 11 rodadas, contar alternâncias consecutivas >= 9.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P222",
+    "name": "Alternância 72",
+    "target": "R",
+    "window": 12,
+    "strength": 80.0,
+    "condition": "Nas últimas 12 rodadas, contar alternâncias consecutivas >= 10.",
+    "family": "Alternâncias"
+  },
+  {
+    "id": "P944",
+    "name": "Assinatura média 44",
+    "target": "R",
+    "window": 9,
+    "strength": 75.0,
+    "condition": "A última assinatura de 9 resultados é R,A,R,R,A,R,A,A,R.",
+    "family": "Assinaturas 6-10"
+  },
+  {
+    "id": "P945",
+    "name": "Assinatura média 45",
+    "target": "A",
+    "window": 10,
+    "strength": 76.0,
+    "condition": "A última assinatura de 10 resultados é A,A,R,A,R,R,A,A,R,A.",
+    "family": "Assinaturas 6-10"
+  },
+  {
+    "id": "P989",
+    "name": "Assinatura média 89",
+    "target": "A",
+    "window": 9,
+    "strength": 75.0,
+    "condition": "A última assinatura de 9 resultados é A,A,A,R,A,R,R,A,A.",
+    "family": "Assinaturas 6-10"
+  },
+  {
+    "id": "P990",
+    "name": "Assinatura média 90",
+    "target": "R",
+    "window": 10,
+    "strength": 76.0,
+    "condition": "A última assinatura de 10 resultados é R,R,R,R,A,R,R,A,A,R.",
+    "family": "Assinaturas 6-10"
+  }
+]
