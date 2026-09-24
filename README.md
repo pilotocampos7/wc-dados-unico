@@ -1,20 +1,27 @@
-# WC DADOS AUTO
+# WC DADOS — Bot Telegram Python
 
-Robô automático do WC DADOS para captura do histórico do CasinoScores Bac Bo.
+Bot base para acompanhar Bac Bo e enviar sinais no Telegram.
 
-## Regras atuais
-- mínimo de 10 rodadas antes do primeiro sinal;
-- força mínima 75%;
-- sem espera de 4 rodadas após sinal;
-- sem repetições simples;
-- sem assinaturas curtas;
-- sem quebra de sequência;
-- empate não é alvo;
-- empate durante sinal conta como GREEN;
-- sinal encerra na rodada seguinte e a análise é refeita imediatamente;
-- mostra Pxxx, nome e força.
+## Configuração
+Defina as variáveis:
+- TELEGRAM_BOT_TOKEN
+- CASINOSCORES_URL
+- MIN_ROUNDS=10
+- MIN_STRENGTH=75
+- POLL_SECONDS=10
 
-## Publicação
-Este pacote é um **Cloudflare Worker com Assets + Browser Run**, não um Direct Upload de Pages. O binding BROWSER precisa estar disponível na conta Cloudflare. Publique com Wrangler (`npx wrangler deploy`) ou conecte o repositório ao fluxo de deploy do Worker.
+## Instalação
+```bash
+pip install -r requirements.txt
+python bot.py
+```
 
-A captura depende do conteúdo renderizado do CasinoScores e pode precisar de ajuste no parser caso o site altere sua estrutura.
+O token não fica gravado no código.
+
+## Comandos
+/start
+/status
+/historico
+/limpar
+
+A captura automática do CasinoScores fica separada para que a estrutura real dos resultados seja validada antes de gerar sinais.
